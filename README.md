@@ -7,3 +7,7 @@ this API is for simple booking for "studio in a box" project
     npm i
     cd functions
     npm run serve
+    
+
+# Using postman
+import the collection file
